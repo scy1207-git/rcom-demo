@@ -1,2 +1,2 @@
 # rcom-demo
-some demos for rcom
+This is my trial code project on github
